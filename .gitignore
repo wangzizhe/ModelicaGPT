@@ -1,0 +1,5 @@
+./dataset/ModelicaStandarLibrary
+./dataset/modelica_report.txt
+./dataset/parse_mo_file.py
+./dataset/standard_modelica_library_dataset.json
+./dataset/transform_to_text2code_pairs.py
