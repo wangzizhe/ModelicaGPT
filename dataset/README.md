@@ -33,17 +33,17 @@ Ongoing work: Introducing debugging prompt pairs into the dataset.
 
 ## List of Considered & Converted Libraries
 
-| Name                      | Repo                                                         | Version              | About                                                        | Considered for Dataset?   |
-| ------------------------- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ------------------------- |
-| Modelica Standard Library | [GitHub - ModelicaStandardLibrary](https://github.com/modelica/ModelicaStandardLibrary) | v4.1.0 (2024-02-06)  | Standard library                                             | Yes                       |
-| VehicleInterfaces         | [GitHub - VehicleInterfaces](https://github.com/modelica/VehicleInterfaces) | v2.0.0 (2024-08-19)  | Interface definitions and architectures for vehicle system modeling | Yes                       |
-| AixLib                    | [GitHub - AixLib](https://github.com/modelica-3rdparty/AixLib) | v2.0.0 (2024-08-19)  | Building performance simulations                             | Yes                       |
-| Buildings                 | [GitHub - Buildings](https://github.com/modelica-3rdparty/Buildings) | v11.0.0 (2024-04-09) | Building performance simulations                             | Yes                       |
-| ObjectStab                | [GitHub - ObjectStab](https://github.com/modelica-3rdparty/ObjectStab) | v2.0.0 (2024-02-01)  | Power System Stability Studies                               | No (descriptions missing) |
-| PhotoVoltaics             | [GitHub - PhotoVoltaics](https://github.com/modelica-3rdparty/PhotoVoltaics) | v2.0.0 (2021-07-19)  | Simulation of photo voltaic cells and modules                | Yes                       |
-| PNlib                     | [GitHub - PNlib](https://github.com/modelica-3rdparty/PNlib) | v3.0.0 (2024-02-13)  | Modeling xHPN                                                | Yes                       |
-| PowerGrids                | [GitHub - PowerGrids](https://github.com/modelica-3rdparty/PowerGrids) | v1.0.4 (2023-12-10)  | Electro-mechanical modelling of power systems                | Yes                       |
-| PowerSystems              | [GitHub - PowerSystems](https://github.com/modelica-3rdparty/PowerSystems) | v2.0.0 (2024-05-07)  | Modeling electrical power systems at different levels of detail both in transient and steady-state mode. | Yes                       |
+|                         Name & Repo                          | Version & Release Date |                         Description                          | Considered for Dataset? |
+| :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: | :---------------------: |
+| [Standard Library](https://github.com/modelica/ModelicaStandardLibrary) |  v4.1.0 (2024-02-06)   |                  Modelica Standard library                   |           Yes           |
+| [VehicleInterfaces](https://github.com/modelica/VehicleInterfaces) |  v2.0.0 (2024-08-19)   | Interface definitions and architectures for vehicle system modeling |           Yes           |
+|    [AixLib](https://github.com/modelica-3rdparty/AixLib)     |  v2.0.0 (2024-08-19)   |               Building performance simulations               |           Yes           |
+| [Buildings](https://github.com/modelica-3rdparty/Buildings)  |  v11.0.0 (2024-04-09)  |               Building performance simulations               |           Yes           |
+| [ObjectStab](https://github.com/modelica-3rdparty/ObjectStab) |  v2.0.0 (2024-02-01)   | Power System Stability Studies (descriptions missing for each component) |           No            |
+| [PhotoVoltaics](https://github.com/modelica-3rdparty/PhotoVoltaics) |  v2.0.0 (2021-07-19)   |        Simulation of photo voltaic cells and modules         |           Yes           |
+|     [PNlib](https://github.com/modelica-3rdparty/PNlib)      |  v3.0.0 (2024-02-13)   |                        Modeling xHPN                         |           Yes           |
+| [PowerGrids](https://github.com/modelica-3rdparty/PowerGrids) |  v1.0.4 (2023-12-10)   |        Electro-mechanical modelling of power systems         |           Yes           |
+| [PowerSystems](https://github.com/modelica-3rdparty/PowerSystems) |  v2.0.0 (2024-05-07)   | Modeling electrical power systems both in transient and steady-state mode |           Yes           |
 
 ### 1. Converted Modelica Standard Library
 
